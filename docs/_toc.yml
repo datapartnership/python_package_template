@@ -1,14 +1,14 @@
-format: jb-book
-root: README
+# format: jb-book
+# root: README
 
-parts:
-  - caption: API Reference
-  # Document the submodules of the package
-    # chapters:
-    #   - file: api/mobilyze
-  - caption: Tutorials
-  # Input notebooks that include tutorials
-    # chapters:
-    #   - file: notebooks/tessellate.ipynb
+# parts:
+#   - caption: API Reference
+#   # Document the submodules of the package
+#     # chapters:
+#     #   - file: api/mobilyze
+#   - caption: Tutorials
+#   # Input notebooks that include tutorials
+#     # chapters:
+#     #   - file: notebooks/tessellate.ipynb
 
 
